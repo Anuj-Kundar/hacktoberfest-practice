@@ -183,7 +183,6 @@ Hurray! You successfully made a contribution! 🎉
   - [Anubhav Purohit](https://github.com/Anubhav-byte)
   - [Anuj Tiwari](https://github.com/ANUJTIWARI007)
   - [Anurag Sharma](https://github.com/Anurag30112003)
-  - [Anuj Kundar](https://github.com/Anuj-Kundar)
   - [Appygal](https://github.com/appygal)
   - [Arghya Das](https://github.com/itsarghyadas)
   - [Arijit](https://github.com/arijitgupta42)
@@ -208,6 +207,7 @@ Hurray! You successfully made a contribution! 🎉
   - [AvidCoder101](https://github.com/AvidCoder101)
   - [Ayush Chaudhary](https://github.com/YushChaudhary)
   - [Ayush Kumar](https://github.com/Ayush7614)
+  - [Anuj Kundar](https://github.com/Anuj-Kundar)
 
 - ### **B**
 
